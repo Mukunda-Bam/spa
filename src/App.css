@@ -1,0 +1,172 @@
+body{
+  padding:0px;
+  margin:0px;
+}
+.App{
+  text-align: center;
+  display:flex;
+  flex-direction:column;
+  width:100%;
+}
+.spa-1{
+  background-color:rgba(0, 0, 0, 0.85);
+  width:100%;
+  height:95vh
+}
+.spa-2{
+  background-color:rgba(0, 0, 0, 0.76);
+  width:100%;
+  min-height:50vh;
+}
+.spa-3{
+  display: flex;
+  flex-direction: row;
+}
+.spa-4{
+  color:red;
+  margin:30px 0 0 100px;
+  font-size: 30px;
+}
+.spa-5{
+  color:white;
+  margin:30px 0 0 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.spa-6{
+  margin:30px 0 0 600px;
+color:red;
+}
+.spa-7{
+  margin:30px 0 0 20px;
+  color:white;
+}
+.spa-8{
+  margin:30px 0 0 20px;
+  color:white;
+}
+.spa-9{
+  margin:30px 0 0 20px;
+  color:white;
+}
+.spa-10{
+  margin:30px 0 0 20px;
+  color:white;
+}
+.spa-11{
+  margin:25px 0 0 20px;
+  color:white;
+  background-color: red;
+  width:80px;
+  height:30px;
+  padding-top:5px;
+  border-radius: 5px;
+}
+.spa-12{
+  display:flex;
+  flex-direction:row;
+}
+.spa-13{
+  display:flex;
+  flex-direction:column;
+}
+.spa-15{
+  color:white;
+  font-weight: bold;
+  margin:110px 0 0 100px;
+  font-size:40px;
+  width:450px;
+}
+.spa-16{
+  color:white;
+  font-weight: bold;
+  font-size:40px;
+  margin-right:80px;
+}
+.spa-19{
+  margin: 50px 0 0 50px;
+  color:white;
+}
+.spa-20{
+  margin: 0px 0 0 50px;
+  margin-right:140px;
+  color:white;
+}
+.spa-21{
+  display:flex;
+  flex-direction:row;
+}
+.spa-22{
+  background-color: red;
+  color:white;
+  border-radius: 5px;
+  margin:50px 0 0 110px;
+  height: 33px;
+  width:120px;
+  padding-top:10px;
+}
+.spa-23{
+  margin:60px 0 0 50px;
+  display:flex;
+  flex-direction:row;
+}
+.spa-24{
+  font-size:35px;
+  color:rgba(0, 0, 0, 1)
+}
+.spa-25{
+  color:white;
+  font-size:17px;
+  margin-top:10px;
+  margin-left:10px;
+}
+.spa-26{
+  display:flex;
+  flex-direction:row;
+}
+.spa-28{
+  color:white;
+  font-size:30px;
+  margin: 30px 0 0 70px;
+
+}
+.spa-29{
+  color:white;
+  margin: 0px 0 0 110px;
+
+}
+.spa-30{
+  color:white;
+  font-size:50px;
+  margin: 30px 0 0 20px;
+}
+.spa-32{
+  color:white;
+  font-size:30px;
+  margin: 30px 30px 0 0px;
+}
+.spa-33{
+  color:white;
+  margin: 0px 0 0 10px;
+}
+.spa-35{
+  color:white;
+  font-size:30px;
+  margin: 30px 30px 0 0px;
+}
+.spa-36{
+  color:white;
+  margin: 0px 0 0 10px;
+}
+.spa-14{
+  margin:110px 0 0 300px;
+}
+.spa-18{
+  font-size: 30px;
+  color:black;
+  border-radius: 5px;
+  height:50px;
+  width:130px;
+  background-color: white;
+  transform:translate(40%, -210%);
+}
